@@ -3,6 +3,8 @@ import { FaUser, FaLock } from "react-icons/fa";
 import { useState } from "react";
 
 import "./login.css";
+/*react hook forms utiliza os hooks do react para otimizar a criação de formulários, 
+tratamento de erros, mudança de valores, etc. Pode ser utilizada junto com bibliotecas externas como o Yup */
 
 const Login = () => {
 
